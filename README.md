@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ohm Thanasak</h1>
-<h3 align="center">I'm study for a Developer</h3>
+<h3 align="center" color="red">I'm study for a Developer</h3>
 
-<img align="center" left=50% src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left">
 </p>
 
