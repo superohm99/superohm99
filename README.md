@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ohm Thanasak</h1>
 <h3 align="center">I'm study for a Developer</h3>
 
-<img align="center" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
+<img align="right" src="https://user-images.githubusercontent.com/57133330/188281408-c67df9ee-fd1f-4b37-833b-f02848f1ce02.gif">
 <p align="left">
 </p>
 
